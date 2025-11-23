@@ -1,0 +1,23 @@
+2025-11-21 16:54:13.814 [info] Starting Python Locator c:\Users\nicki\FSP\.vscode\ext\ms-python.python-2025.18.0-win32-x64\python-env-tools\bin\pet.exe server
+2025-11-21 16:54:13.822 [warning] Failed to open HKLM\Software\Python, Os { code: 2, kind: NotFound, message: "Das System kann die angegebene Datei nicht finden." }
+2025-11-21 16:54:13.824 [info] Discovered env: C:\Users\nicki\AppData\Local\Programs\Python\Python311\python.exe
+2025-11-21 16:54:13.826 [info] Discovered env: C:\Users\nicki\AppData\Local\Programs\Python\Python313\python.exe
+2025-11-21 16:54:13.827 [info] Discovered env: C:\Users\nicki\FSP\.venv\Scripts\python.exe
+2025-11-21 16:54:14.308 [info] Resolved Python Environment C:\Users\nicki\FSP\.venv\Scripts\python.exe
+2025-11-21 16:54:14.310 [info] Resolved C:\Users\nicki\FSP\.venv\Scripts\python.exe
+2025-11-21 16:54:14.312 [info] Resolved Python Environment C:\Users\nicki\FSP\.venv\Scripts\python.exe
+2025-11-21 16:54:14.441 [info] Locator Conda took 638.6806ms
+2025-11-21 16:54:14.441 [info] Locator PipEnv took 2.9386ms
+2025-11-21 16:54:14.441 [info] Locator Pixi took 259.6µs
+2025-11-21 16:54:14.441 [info] Locator Poetry took 7.2391ms
+2025-11-21 16:54:14.442 [info] Locator PyEnv took 3.507ms
+2025-11-21 16:54:14.442 [info] Locator Venv took 27.1µs
+2025-11-21 16:54:14.442 [info] Locator VirtualEnv took 38.5µs
+2025-11-21 16:54:14.442 [info] Locator VirtualEnvWrapper took 2.9986ms
+2025-11-21 16:54:14.442 [info] Locator WindowsRegistry took 6.8554ms
+2025-11-21 16:54:14.442 [info] Locator WindowsStore took 3.2157ms
+2025-11-21 16:54:14.442 [info] Locator GlobalVirtualEnvs took 11.3316ms
+2025-11-21 16:54:14.442 [info] Locator Locators took 639.1969ms
+2025-11-21 16:54:14.442 [info] Locator Path took 12.0884ms
+2025-11-21 16:54:14.442 [info] Locator Workspaces took 13.7979ms
+2025-11-21 16:54:14.443 [info] Refresh completed in 639ms

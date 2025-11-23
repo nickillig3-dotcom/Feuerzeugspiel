@@ -1,0 +1,30 @@
+[
+  {
+    "id": 16,
+    "angreifer": "Louis",
+    "opfer": "Poffi",
+    "zeit": "2025-11-23T14:37:51",
+    "bestaetigt": true,
+    "stand_nachher": "1:2",
+    "art": "schlafstich",
+    "video": "(Gruppe hat gesehen)",
+    "streitfall": false,
+    "oath_ang_ok": false,
+    "oath_opf_ok": false,
+    "punkte": 1
+  },
+  {
+    "id": 17,
+    "angreifer": "Louis",
+    "opfer": "Poffi",
+    "zeit": "2025-11-23T14:38:00",
+    "bestaetigt": true,
+    "stand_nachher": "2:2",
+    "art": "schlafstich",
+    "video": "(Gruppe hat gesehen)",
+    "streitfall": false,
+    "oath_ang_ok": false,
+    "oath_opf_ok": false,
+    "punkte": 1
+  }
+]

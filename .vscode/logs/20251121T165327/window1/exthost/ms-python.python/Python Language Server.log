@@ -1,0 +1,18 @@
+2025-11-21 16:54:15.067 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.18.0)
+2025-11-21 16:54:18.259 [info] (15780) Server root directory: file:///c%3A/Users/nicki/FSP/.vscode/ext/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-21 16:54:18.262 [info] (15780) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-21 16:54:18.308 [info] (15780) Starting service instance "FSP" for workspace "c:\Users\nicki\FSP"
+2025-11-21 16:54:18.495 [info] (15780) Setting environmentName for service "FSP": "3.13.5 (.venv venv)"
+2025-11-21 16:54:18.495 [info] (15780) Setting pythonPath for service "FSP": "C:\Users\nicki\FSP\.venv\Scripts\python.exe"
+2025-11-21 16:54:18.495 [info] (15780) No include entries specified; assuming c:\Users\nicki\FSP
+2025-11-21 16:54:18.495 [info] (15780) Auto-excluding **/node_modules
+2025-11-21 16:54:18.496 [info] (15780) Auto-excluding **/__pycache__
+2025-11-21 16:54:18.496 [info] (15780) Auto-excluding **/.*
+2025-11-21 16:54:18.619 [info] (15780) Assuming Python version 3.13.5.final.0
+2025-11-21 16:54:18.861 [info] (15780) Found 9 source files
+2025-11-21 16:54:18.867 [info] (15780) Settings have not changed. Skipping update.
+2025-11-21 16:54:19.150 [info] (15780) Starting Mcp server id:3204 ...
+2025-11-21 16:54:19.619 [info] (15780) BG: Priority queue background worker(2) root directory: file:///c%3A/Users/nicki/FSP/.vscode/ext/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-21 16:54:19.621 [info] (15780) BG: Priority queue background worker(2) started
+2025-11-21 16:54:19.969 [info] (15780) BG: Indexer background runner(3) root directory: file:///c%3A/Users/nicki/FSP/.vscode/ext/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-21 16:54:19.969 [info] (15780) BG: Indexing(3) started

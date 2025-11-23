@@ -1,0 +1,31 @@
+2025-11-21 16:53:31.478 [info] Extension host with pid 14900 started
+2025-11-21 16:53:31.478 [info] Skipping acquiring lock for c:\Users\nicki\FSP\.vscode\User\workspaceStorage\d5310657103a4770b52b4c0d4a64562c.
+2025-11-21 16:53:31.514 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-21 16:53:31.551 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-21 16:53:31.815 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-11-21 16:53:31.849 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-21 16:53:31.976 [info] Eager extensions activated
+2025-11-21 16:53:32.020 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 16:53:32.026 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 16:53:37.153 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-11-21 16:54:11.055 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-21 16:54:11.241 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-11-21 16:54:11.576 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-11-21 16:54:13.914 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-21 16:54:16.634 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-21 16:54:18.845 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-21 16:54:18.871 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-11-21 16:54:21.016 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-21 16:54:21.047 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (c:\Users\nicki\FSP\.vscode\ext\ms-python.vscode-python-envs-1.12.0-win32-x64\dist\extension.js:2:681672)
+	at xX.eb (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at xX.$ (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at xX.terminate (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at rN.terminate (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///c:/Users/nicki/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-21 16:54:21.047 [info] Extension host with pid 14900 exiting with code 0

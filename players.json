@@ -1,0 +1,227 @@
+{
+  "Nick": {
+    "password": "fz_nick_2025",
+    "lives": 3,
+    "lands": [
+      "Deutschland",
+      "Japan",
+      "England"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {
+      "Ali.m": "2:0",
+      "Felemez": "5:0",
+      "Simon": "29:25",
+      "Paolo": "2:2",
+      "Cayan": "6:1",
+      "Louis": "3:3",
+      "David": "1:0",
+      "Alessio": "0:0",
+      "Poffi": "0:0"
+    },
+    "history": {
+      "Ali.m": 35,
+      "Simon": 29,
+      "Alessio": 47,
+      "Felemez": 5,
+      "Cayan": 6,
+      "David": 1,
+      "Louis": 9,
+      "Paolo": 2
+    },
+    "offline": false
+  },
+  "Alessio": {
+    "password": "fz_alessio_2025",
+    "lives": 1,
+    "lands": [
+      "Römisches Reich"
+    ],
+    "is_grossmacht": true,
+    "active_fronts": {
+      "Louis": "2:0",
+      "Nick": "0:0",
+      "Paolo": "0:0",
+      "Poffi": "0:0"
+    },
+    "history": {
+      "Nick": 29,
+      "Simon": 7,
+      "Ali.m": 2,
+      "Ahmet": 1,
+      "Cayan": 4,
+      "David": 1,
+      "Paolo": 7,
+      "Louis": 34,
+      "Poffi": 20
+    },
+    "offline": false
+  },
+  "Louis": {
+    "password": "fz_louis_2025",
+    "lives": 1,
+    "lands": [
+      "Müllheim",
+      "Libanon"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {
+      "Nick": "3:3",
+      "Paolo": "2:1",
+      "Poffi": "2:2",
+      "Alessio": "0:2"
+    },
+    "history": {
+      "Nick": 19,
+      "Alessio": 3,
+      "Paolo": 2,
+      "Poffi": 2
+    },
+    "offline": false
+  },
+  "Paolo": {
+    "password": "fz_paolo_2025",
+    "lives": 3,
+    "lands": [
+      "Helsinki-Land"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {
+      "Alessio": "0:0",
+      "Nick": "2:2",
+      "Louis": "1:2",
+      "Poffi": "0:0"
+    },
+    "history": {
+      "Alessio": 1,
+      "Louis": 1,
+      "Nick": 2
+    },
+    "offline": false
+  },
+  "Poffi": {
+    "password": "KvA_poffi_2025",
+    "lives": 1,
+    "lands": [
+      "Albanien"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {
+      "Louis": "2:2",
+      "Alessio": "0:0",
+      "Paolo": "0:0",
+      "Nick": "0:0"
+    },
+    "history": {
+      "Louis": 2,
+      "Alessio": 0
+    },
+    "offline": false
+  },
+  "Ali.m": {
+    "password": "fz_alim_2025",
+    "lives": 0,
+    "lands": [],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Nick": 3,
+      "Simon": 2,
+      "Felemez": 1,
+      "Alessio": 3,
+      "Cayan": 6,
+      "David": 1
+    },
+    "offline": false
+  },
+  "Simon": {
+    "password": "fz_simon_2025",
+    "lives": 3,
+    "lands": [
+      "Amsterdam",
+      "Israel"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Nick": 25,
+      "Alessio": 21,
+      "Ali.m": 6,
+      "Felemez": 2,
+      "Cayan": 2,
+      "David": 0
+    },
+    "offline": false
+  },
+  "Cayan": {
+    "password": "fz_cayan_2025",
+    "lives": 0,
+    "lands": [
+      "Türkei"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Nick": 1,
+      "Alessio": 3,
+      "Simon": 0,
+      "Ali.m": 1,
+      "David": 0
+    },
+    "offline": true
+  },
+  "Felemez": {
+    "password": "fz_felemez_2025",
+    "lives": 0,
+    "lands": [
+      "Türkei"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Nick": 0,
+      "Simon": 1,
+      "Ali.m": 0
+    },
+    "offline": true
+  },
+  "David": {
+    "password": "fz_david_2025",
+    "lives": 0,
+    "lands": [
+      "Armenien"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Simon": 1,
+      "Alessio": 0,
+      "Ali.m": 2,
+      "Cayan": 1,
+      "Nick": 0
+    },
+    "offline": true
+  },
+  "Ahmet": {
+    "password": "fz_ahmet_2025",
+    "lives": 0,
+    "lands": [],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {
+      "Alessio": 0
+    },
+    "offline": true
+  },
+  "Giova": {
+    "password": "fz_giova_2025",
+    "lives": 3,
+    "lands": [
+      "Haywan"
+    ],
+    "is_grossmacht": false,
+    "active_fronts": {},
+    "history": {},
+    "offline": false
+  }
+}
