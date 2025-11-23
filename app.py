@@ -23,7 +23,6 @@ OATH_TEXT_OPF = "Ich schwöre, er hat mich nicht gestochen."
 
 # ---------------- Globale Styles (für bessere Lesbarkeit) ----------------
 # --- Layout / CSS Tweaks für Mobile ---
-st.set_page_config(page_title="Feuerzeugspiel", layout="wide")
 
 st.markdown("""
     <style>
