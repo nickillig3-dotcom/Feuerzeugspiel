@@ -1,9 +1,0 @@
-2025-11-21 16:54:13.769 [info] Native locator: Refresh started
-2025-11-21 16:54:13.856 [info] Native locator: Refresh started
-2025-11-21 16:54:13.874 [info] VS Code was launched from an activated environment: '.venv', selecting it as the interpreter for workspace.
-2025-11-21 16:54:13.897 [info] > pyenv which python
-2025-11-21 16:54:13.897 [info] cwd: .
-2025-11-21 16:54:14.300 [info] Active interpreter [c:\Users\nicki\FSP]:  C:\Users\nicki\FSP\.venv\Scripts\python.exe
-2025-11-21 16:54:14.310 [info] Python interpreter path: .\.venv\Scripts\python.exe
-2025-11-21 16:54:14.452 [info] Native locator: Refresh finished in 674 ms
-2025-11-21 16:54:18.341 [info] Starting Pylance language server.
