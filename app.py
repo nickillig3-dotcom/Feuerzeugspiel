@@ -14,9 +14,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-PLAYERS_FILE = "players.json"
-FEED_FILE = "feed.json"
-RULES_FILE = "feuerzeugspiel_gesetzbuch.md"
+PLAYERS_FILE = "data/players.json"
+FEED_FILE = "data/feed.json"
+RULES_FILE = "data/feuerzeugspiel_gesetzbuch.md"
 
 OATH_TEXT_ANG = "Ich schwöre, ich habe ihn gestochen."
 OATH_TEXT_OPF = "Ich schwöre, er hat mich nicht gestochen."
